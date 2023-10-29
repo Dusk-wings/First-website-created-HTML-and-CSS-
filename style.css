@@ -260,3 +260,44 @@ button:hover {
 
  
 }
+
+@media((min-width : 1021px) and (max-width: 1400px)){
+    .top{
+        padding-left: 42.8px;
+    }
+    .Middle
+    {
+        padding-left: 42.8px;
+    }
+  
+  
+  .Middle .Heading {
+    font-size: 42.5px;
+    padding-top: 50px;
+  }
+
+  .About {
+    flex-direction: column;
+  }
+  .About h2 {
+    
+    padding-top: 50px;
+    font-size: 22px;
+    padding-bottom: 36px;
+  }
+  .About p {
+    
+    font-size: 22px;
+    width: 75%;
+  }
+  .Middle .About img {
+    height: 207px;
+
+  }
+  .Middle .content {
+    grid-column-gap: 40px;
+
+  }
+
+ 
+}
