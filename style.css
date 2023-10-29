@@ -261,7 +261,7 @@ button:hover {
  
 }
 
-@media((min-width : 1021px) and (max-width: 1400px)){
+@media((min-width : 1021px) and (max-width: 1290px)){
     .top{
         padding-left: 42.8px;
     }
