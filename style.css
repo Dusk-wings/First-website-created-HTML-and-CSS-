@@ -1,7 +1,8 @@
-* {
+*{
   margin: 0;
   padding: 0;
-  background-color : #1c191a;
+  background-color:#1c191a;
+  
 }
 
 
@@ -119,6 +120,8 @@ button {
   height: 44px;
   border-radius: 35px;
   margin-bottom: 25px;
+  background-color : white;
+  color : white;
 }
 
 .button span {
